@@ -39,7 +39,7 @@ This project is created for **Educational & Legal purposes only**.
 
 ### 🧑‍💻 ZADEX (Developer Helper)
                                                                                                  
-<img src="https://i.ibb.co/4w9Kr0v1/12372.jpg" width="80"/>
+<img src="https://i.ibb.co/S4ZqBgYj/19974.jpg" width="80"/>
 
 ---
                                                                   
