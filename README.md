@@ -34,12 +34,12 @@ This project is created for **Educational & Legal purposes only**.
 ## 👨‍💻 Developers
 
 ### 🧑‍💻 ZORRO (Main Developer)
-<img src="https://i.ibb.co/0RqqYfxF/1340.jpg" width="80"/>       
+<img src="https://i.ibb.co/0RqqYfxF/1340.jpg" width="100"/>       
 
 
 ### 🧑‍💻 ZADEX (Developer Helper)
                                                                                                  
-<img src="https://i.ibb.co/S4ZqBgYj/19974.jpg" width="80"/>
+<img src="https://i.ibb.co/S4ZqBgYj/19974.jpg" width="100"/>
 
 ---
                                                                   
