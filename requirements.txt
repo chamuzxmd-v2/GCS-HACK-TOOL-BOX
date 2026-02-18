@@ -1,3 +1,6 @@
+
+bs4
+dnspython
 colorama
-pyfiglet
+pyfglet
 requests
