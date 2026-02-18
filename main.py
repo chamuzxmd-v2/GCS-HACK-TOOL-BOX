@@ -31,7 +31,8 @@ print(Fore.GREEN + """
 [7] Malware Simulator
 [8] OSINT Tools
 [9] Social Engineering Simulator
-[10] AI Assistant 🤖
+[10] AI Assistant
+[11] Cyber Security AI Guide
 [0] Exit
 """ + Style.RESET_ALL)
 
